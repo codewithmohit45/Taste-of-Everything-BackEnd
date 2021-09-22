@@ -22,8 +22,8 @@ public class CustomerServiceImpl implements CustomerService {
 	}
 
 	@Override
-	public boolean checkCustomer(String cust_email, String cust_password) {
-	    if(repository.findByCustomer(cust_email, cust_password))
+	public boolean checkCustomer(String Cust_email, String cust_password) {
+	    if(repository.findByCustomer(cust_email, cust_password)
 	    {
 	      return true;	
 	    }

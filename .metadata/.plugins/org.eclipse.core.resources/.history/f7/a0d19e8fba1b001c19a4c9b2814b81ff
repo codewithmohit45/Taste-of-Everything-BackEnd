@@ -9,27 +9,24 @@ import com.app.model.Customer;
 import com.app.repository.CustomerRepository;
 import com.app.service.CustomerService;
 
+
 @Service
 public class CustomerServiceImpl implements CustomerService {
-
+	
 	@Autowired
 	private CustomerRepository repository;
+	
 
 	@Override
 	public Customer addCustomer(Customer customer) {
-
+		
 		return repository.save(customer);
 	}
 
 	@Override
-	public boolean checkCustomer(String cust_email, String cust_password) {
-	    if(repository.findByCustomer(cust_email, cust_password))
-	    {
-	      return true;	
-	    }
-	    else {
+	public boolean checkCustomer(String Cust_email, String cust_password) {
+		/
 		return false;
-	}
 	}
 
 	@Override
@@ -52,9 +49,10 @@ public class CustomerServiceImpl implements CustomerService {
 
 	@Override
 	public void deleteCustomerById(int cust_id) {
-
+		
 		repository.deleteById(cust_id);
-		System.out.println("Customer Deleted SuccessFully");
+		System.out.println("Customer Deleted SuccessFully" ));
 	}
+	
 
 }
