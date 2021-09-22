@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\ELCOT\Desktop\PROJECT_2\Taste-of-Everything-BackEnd\.metadata\.plugins\org.eclipse.jdt.core
+3855045282.index
