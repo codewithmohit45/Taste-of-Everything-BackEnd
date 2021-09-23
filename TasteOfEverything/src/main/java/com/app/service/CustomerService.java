@@ -4,7 +4,8 @@ import java.util.List;
 
 import com.app.model.Customer;
 
-public interface CustomerService {
+public interface CustomerService 
+{
 	
 	public Customer addCustomer(Customer customer);
 	public boolean checkCustomer(String cust_email,String cust_password);
