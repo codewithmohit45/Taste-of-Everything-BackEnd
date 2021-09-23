@@ -17,9 +17,9 @@ public class Order
 {
 	@Id
 	@GeneratedValue
-	private int o_id;
-	private String o_status;
-	
+	private int order_id;
+	private String order_status;
+
 	@ManyToOne
 	private Customer cust_id;
 	

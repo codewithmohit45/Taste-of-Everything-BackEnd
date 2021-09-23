@@ -16,8 +16,8 @@ public class CustomerServiceImpl implements CustomerService {
 	private CustomerRepository repository;
 
 	@Override
-	public Customer addCustomer(Customer customer) {
-
+	public Customer addCustomer(Customer customer) 
+	{
 		return repository.save(customer);
 	}
 
@@ -27,9 +27,10 @@ public class CustomerServiceImpl implements CustomerService {
 	    {
 	      return true;	
 	    }
-	    else {
+	    else 
+	    {
 		return false;
-	}
+	    }
 	}
 
 	@Override

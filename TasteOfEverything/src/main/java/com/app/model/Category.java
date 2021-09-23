@@ -11,7 +11,8 @@ import lombok.Data;
 @Entity
 @Table
 
-public class Category {
+public class Category 
+{
     
 	@Id
 	@GeneratedValue
