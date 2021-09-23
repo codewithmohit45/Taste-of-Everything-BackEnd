@@ -46,10 +46,10 @@ public class CustomerController {
 
 	@DeleteMapping("/customer/{cust_id}")
 	public void deleteCustomer(@PathVariable int cust_id)
-	{
+		{
 			service.deleteCustomer(cust_id);
+		}
 	}
+	
+	
 }
-	
-	
-

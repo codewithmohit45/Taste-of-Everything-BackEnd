@@ -51,7 +51,7 @@ public class CustomerServiceImpl implements CustomerService {
 	}
 
 	@Override
-	public void deleteCustomer(int cust_id) {
+	public void deleteCustomerById(int cust_id) {
 
 		repository.deleteById(cust_id);
 		System.out.println("Customer Deleted SuccessFully");
