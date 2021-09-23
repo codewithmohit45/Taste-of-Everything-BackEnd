@@ -23,9 +23,9 @@ public class EmployeeServiceImpl implements EmployeeService
 	@Override
 	public boolean checkEmployee(String emp_email, String emp_password) 
 	{
-		if(repository.findByEmployee(emp_email,emp_password))
-		return true;
-		else
+//		if(repository.findByEmployee(emp_email,emp_password))
+//		return true;
+//		else
 		return false;
 	}
 
