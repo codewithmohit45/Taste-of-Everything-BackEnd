@@ -23,6 +23,7 @@ public class CustomerServiceImpl implements CustomerService {
 
 	@Override
 	public boolean checkCustomer(String cust_email, String cust_password) {
+<<<<<<< HEAD
 	    if(repository.findByCustomer(cust_email, cust_password))
 	    {
 	      return true;	
@@ -31,6 +32,16 @@ public class CustomerServiceImpl implements CustomerService {
 	    {
 		return false;
 	    }
+=======
+//	    if(repository.findByCustomer(cust_email, cust_password))
+//	    {
+//	      return true;	
+//	    }
+//	    else {
+//		return false;
+//	}
+		return false;
+>>>>>>> 6db35faab2800ede9142bbfafbd22010d657f156
 	}
 
 	@Override
@@ -52,7 +63,7 @@ public class CustomerServiceImpl implements CustomerService {
 	}
 
 	@Override
-	public void deleteCustomerById(int cust_id) {
+	public void deleteCustomer(int cust_id) {
 
 		repository.deleteById(cust_id);
 		System.out.println("Customer Deleted SuccessFully");

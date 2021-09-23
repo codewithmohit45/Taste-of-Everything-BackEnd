@@ -8,5 +8,5 @@ import com.app.model.Employee;
 @Repository
 public interface EmployeeRepository extends JpaRepository<Employee, Integer>
 {
-	boolean findByEmployee(String emp_username,String emp_password);
+	//boolean findByEmployee(String emp_username,String emp_password);
 }
