@@ -15,11 +15,11 @@
 //
 //public class Cart 
 //{
-//	@Id
-//	@GeneratedValue
-//	private int cart_id;
-//	//@OneToOne
-//	private Customer cust_id;
-//	//@OneToMany
-//	private Item item_id;
+////	@Id
+////	@GeneratedValue
+////	private int cart_id;
+////	//@OneToOne
+////	private Customer cust_id;
+////	//@OneToMany
+////	private Item item_id;
 //}

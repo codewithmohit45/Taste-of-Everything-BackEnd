@@ -15,12 +15,9 @@ import org.springframework.web.bind.annotation.RestController;
 import com.app.model.Customer;
 import com.app.service.CustomerService;
 
+
 @RestController
 @CrossOrigin
-<<<<<<< HEAD
-public class CustomerController 
-{
-=======
 public class CustomerController {
     
 	@Autowired
@@ -42,7 +39,7 @@ public class CustomerController {
 	{
 		return service.getAllCustomer();
 	}
->>>>>>> 6db35faab2800ede9142bbfafbd22010d657f156
+
 	
 	@GetMapping("/customer/{cust_id}")
 	public Customer getCustomerById(@PathVariable int cust_id) {
