@@ -3,7 +3,6 @@ package com.app.model;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-import javax.persistence.ManyToOne;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
@@ -12,15 +11,17 @@ import lombok.Data;
 @Data
 @Entity
 @Table
-public class Order {
+
+
+public class Item
+{
 	@Id
 	@GeneratedValue
-	private int order_id;
-	private String order_status;
-	@ManyToOne
-	private Customer cust_id;
-	@OneToMany
-	private Item item_id;
+	private int item_id;
 	
+	private String item_name;
+	private double item_price;
+	
+	//@OneToMany
+	private Category cat_id;
 }
-

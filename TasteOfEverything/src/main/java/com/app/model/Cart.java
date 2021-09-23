@@ -18,8 +18,8 @@ public class Cart
 	@Id
 	@GeneratedValue
 	private int cart_id;
-	//@OneToOne
+	@OneToOne
 	private Customer cust_id;
-	//@OneToMany
+	@OneToMany
 	private Item item_id;
 }

@@ -22,6 +22,6 @@ public class Item
 	private String item_name;
 	private double item_price;
 	
-	//@OneToMany
+	@OneToMany
 	private Category cat_id;
 }
