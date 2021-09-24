@@ -35,21 +35,21 @@ public class CategoryController {
 		return service.updateCategory(category);
 	}
 	
-	@GetMapping("/categorys")
-	public List<Category> getAllCategorys()
+	@GetMapping("/categories")
+	public List<Category> getAllCategories()
 	{
-		return service.getAllCategorys();
+		return service.getAllCategories();
 	}
 	
-//	@GetMapping("/category/cat_name/{cat_name}")
-//	public List<Category> getCategoryByName(@PathVariable String cat_name)
-//	{
-//		return service.getCategoryByName(cat_name);
-//	}
-	
-	@DeleteMapping("/category/{cat_id}")
-	public void deleteCategory(@PathVariable int cat_id)
+	@GetMapping("/category/categoryName/{categoryName}")
+	public List<Category> getCategoryByName(@PathVariable String categoryName)
 	{
-		service.deleteCategory(cat_id);
+		return service.getCategoryByName(categoryName);
+	}
+	
+	@DeleteMapping("/category/{categoryId}")
+	public void deleteCategory(@PathVariable int categoryId)
+	{
+		service.deleteCategory(categoryId);
 	}
 }

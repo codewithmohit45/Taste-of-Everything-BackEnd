@@ -36,13 +36,13 @@ public class OrderServiceImpl implements OrderService {
 	}
 
 	@Override
-	public List<Order> getOrderByCustomerId(int cust_id) {
+	public List<Order> getOrderByCustomerId(int customerId) {
 		// TODO Auto-generated method stub
-		return repository.findByCustomerId(cust_id);
+		return repository.findByCustomer(customerId);
 	}
 
 	@Override
-	public List<Order> getOrderByStatus(String order_status) {
+	public List<Order> getOrderByStatus(String orderStatus) {
 		
 		return null;
 	}

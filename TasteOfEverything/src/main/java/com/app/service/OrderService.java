@@ -10,8 +10,8 @@ public interface OrderService {
 	public Order addOrder(Order order);
 	public Order updateorder(Order order);
 	public List<Order> getAllOrders();
-	public List<Order> getOrderByCustomerId(int cust_id);
-	public List<Order> getOrderByStatus(String order_status);
+	public List<Order> getOrderByCustomerId(int customerId);
+	public List<Order> getOrderByStatus(String orderStatus);
 }
 
 

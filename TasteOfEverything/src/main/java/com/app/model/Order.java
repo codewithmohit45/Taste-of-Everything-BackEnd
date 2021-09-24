@@ -1,8 +1,13 @@
 package com.app.model;
 
+import java.util.List;
+
 import javax.persistence.Entity;
+import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
@@ -14,13 +19,14 @@ import lombok.Data;
 @Table
 public class Order {
 	@Id
-	@GeneratedValue
-	private int order_id;
-	private String order_status;
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	private int orderId;
+	private String orderStatus;
 	@ManyToOne
-	private Customer cust_id;
-	@OneToMany
-	private Item item_id;
+	@JoinColumn(name="customerId")
+	private Customer customer;
+	@OneToMany(fetch = FetchType.LAZY)
+	@JoinColumn(name="itemId")
+	private List<Item> item;
 	
 }
-

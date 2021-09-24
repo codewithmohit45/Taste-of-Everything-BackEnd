@@ -7,8 +7,8 @@ import com.app.model.Category;
 public interface CategoryService {
 	public Category addCategory(Category category);
 	public Category updateCategory(Category category);
-	public List<Category> getAllCategorys();
-	public void deleteCategory(int cat_id);
-	//public List<Category> getCategoryByName(String cat_name);
+	public List<Category> getAllCategories();
+	public void deleteCategory(int categoryId);
+	public List<Category> getCategoryByName(String categoryName);
 
 }

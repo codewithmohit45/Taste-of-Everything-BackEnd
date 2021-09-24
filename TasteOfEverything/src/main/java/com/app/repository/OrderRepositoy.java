@@ -10,6 +10,6 @@ import com.app.model.Order;
 
 @Repository
 public interface OrderRepositoy extends JpaRepository<Order, Integer> {
-	public List<Order> findByCustomerId(int cust_id);
-	public List<Order>  findOrderByStatus(String order_status);
+	public List<Order> findByCustomer(int customerId);
+	public List<Order>  findByOrderStatus(String orderStatus);
 }

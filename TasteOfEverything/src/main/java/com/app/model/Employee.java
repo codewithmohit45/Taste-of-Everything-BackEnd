@@ -2,6 +2,7 @@ package com.app.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
@@ -13,9 +14,9 @@ import lombok.Data;
 public class Employee {
 
 	@Id
-	@GeneratedValue
-	private int emp_id;
-	private String emp_name;
-	private String emp_email;
-	private String emp_password;
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	private int employeeId;
+	private String employeeName;
+	private String employeeEmail;
+	private String employeePassword;
 }
