@@ -13,10 +13,17 @@ import javax.persistence.OneToOne;
 import javax.persistence.Table;
 
 import lombok.Data;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+import lombok.ToString;
 
-@Data
+@Setter
+@Getter
+@ToString
+@NoArgsConstructor
 @Entity
-@Table
+@Table(name = "Order")
 public class Cart 
 {
 	@Id
@@ -28,4 +35,11 @@ public class Cart
 	@OneToMany
 	@JoinColumn(name="itemId")
 	private List<Item> item;
+	public Cart(Customer customer, List<Item> item) {
+	
+		this.customer = customer;
+		this.item = item;
+	}
+	
+	
 }

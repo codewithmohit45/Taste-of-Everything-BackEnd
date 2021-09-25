@@ -8,10 +8,10 @@ import com.app.model.Order;
 
 public interface OrderService {
 	public Order addOrder(Order order);
-	public Order updateorder(Order order);
+	public Order updateOrder(Order order);
 	public List<Order> getAllOrders();
 	public List<Order> getOrderByCustomerId(int customerId);
-	public List<Order> getOrderByStatus(String orderStatus);
+	public List<Order> getOrderByOrderStatus(String orderStatus);
 }
 
 

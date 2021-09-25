@@ -24,7 +24,7 @@ public class OrderServiceImpl implements OrderService {
 	}
 
 	@Override
-	public Order updateorder(Order order) {
+	public Order updateOrder(Order order) {
 		
 		return repository.save(order);
 	}
@@ -38,13 +38,13 @@ public class OrderServiceImpl implements OrderService {
 	@Override
 	public List<Order> getOrderByCustomerId(int customerId) {
 		// TODO Auto-generated method stub
-		return repository.findByCustomer(customerId);
+		return repository.findOrderByCustomer(customerId);
 	}
 
 	@Override
-	public List<Order> getOrderByStatus(String orderStatus) {
+	public List<Order> getOrderByOrderStatus(String orderStatus) {
 		
-		return null;
+		return repository.findOrderByOrderStatus(orderStatus);
 	}
 	
 	
