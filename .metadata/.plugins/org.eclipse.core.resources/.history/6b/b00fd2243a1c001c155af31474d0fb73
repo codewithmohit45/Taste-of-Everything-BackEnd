@@ -1,0 +1,49 @@
+package com.app.service.impl;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.app.model.Category;
+import com.app.repository.CategoryRepository;
+import com.app.service.CategoryService;
+
+
+@Service
+public class CategoryServiceImpl implements CategoryService {
+
+	@Autowired
+	private CategoryRepository repository;
+	@Override
+	public Category addCategory(Category category) {
+		
+		return repository;
+	}
+
+	@Override
+	public Category updateCategory(Category category) {
+		
+		return null;
+	}
+
+	@Override
+	public List<Category> getAllCategory() {
+		
+		return null;
+	}
+
+	@Override
+	public void deleteCategory(int cat_id) {
+	
+		
+	}
+
+	@Override
+	public List<Category> getCategoryByName(String cat_name) {
+		
+		return null;
+	}
+	
+    
+}

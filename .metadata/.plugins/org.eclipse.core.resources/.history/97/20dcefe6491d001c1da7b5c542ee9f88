@@ -1,0 +1,60 @@
+package com.app.service;
+
+import java.util.List;
+
+import com.app.model.Address;
+
+public interface AddressService {
+
+	//public 
+	//add adress
+	//update addresss
+	//get addressbu_id
+	//getaddressbaddresssid
+	//deleteaddress
+	public Address addAddress(Address address);
+	public Address updateAddress(Address address);
+	public List<Address> getAllAddresses();
+	public getAddressByAddressId
+
+//7. Functionality(Address)
+//Controller Name : addressController
+//Service Name : addressService
+//Service Implimentation: adressServiceImpl
+//Repository Name: adressRepository
+//Address
+//PostMapping("/address")
+//Address addAddress(@RequestBody Address address)
+//PutMapping("/address")
+//Address updateAddress(@RequestBody Address address)
+//GetMapping("/address/{customerId}")
+//List<Address> getAllAddress()
+//GetMapping("/address/{addressId}")
+//List<Address> getAddressById(@PathVariable int addressId)
+//DeleteMapping("/address/{addressId}")
+//void deleteAddress(@PathVariable int addressId)
+
+
+
+	
+	}
+
+
+//7. Functionality(Address)
+//Controller Name : addressController
+//Service Name : addressService
+//Service Implimentation: adressServiceImpl
+//Repository Name: adressRepository
+//Address
+//PostMapping("/address")
+//Address addAddress(@RequestBody Address address)
+//PutMapping("/address")
+//Address updateAddress(@RequestBody Address address)
+//GetMapping("/address/{customerId}")
+//List<Address> getAllAddress()
+//GetMapping("/address/{addressId}")
+//List<Address> getAddressById(@PathVariable int addressId)
+//DeleteMapping("/address/{addressId}")
+//void deleteAddress(@PathVariable int addressId)
+
+

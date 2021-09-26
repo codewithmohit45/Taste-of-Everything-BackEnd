@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+Server.port=9000
+
+spring.h2.console.enabled=true
+spring.h2.console.path=/h2
+
+spring.jpa.show-sql=true
+
+
+=======
+spring.h2.console.enabled=true
+spring.h2.console.path=/h2
+#
+#
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.format_sql=true
+>>>>>>> 6db35faab2800ede9142bbfafbd22010d657f156

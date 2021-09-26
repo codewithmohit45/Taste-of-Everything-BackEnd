@@ -1,0 +1,12 @@
+package com.app.repository;
+
+import java.util.List;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.app.model.Cart;
+import com.app.model.Order;
+
+public interface OrderRepositoy extends JpaRepository<Order, Integer> {
+     
+}
