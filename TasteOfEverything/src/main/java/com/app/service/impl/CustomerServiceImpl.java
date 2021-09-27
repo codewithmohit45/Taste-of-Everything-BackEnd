@@ -60,4 +60,17 @@ public class CustomerServiceImpl implements CustomerService {
 		System.out.println("Customer Deleted SuccessFully");
 	}
 
+        	@Override
+	public Customer getuserByEmailAndPassword(String customerEmail, String customerPassword) throws Exception {
+		Customer cus=null;
+		if(customerEmail!=null && customerPassword!=null )
+			cus=repository.findCustomerByCustomerEmailAndCustomerPassword(customerEmail,customerPassword);
+		if(cus==null)
+		{
+			throw new Exception("Invalid Credential");
+		}
+		return cus;
+	}
+
+
 }

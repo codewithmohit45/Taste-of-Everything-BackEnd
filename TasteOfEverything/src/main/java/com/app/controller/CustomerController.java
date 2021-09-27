@@ -51,6 +51,15 @@ public class CustomerController {
 	{
 			service.deleteCustomer(cust_id);
 	}
+        	//                   ***************LOGIN******************
+	@GetMapping("/customer/login")
+	public Customer getCustomer(@RequestBody  Customer customer) throws Exception 
+	{
+		String customerEmail=customer.getCustomerEmail();
+		String customerPassword=customer.getCustomerPassword();
+		return service.getuserByEmailAndPassword(customerEmail, customerPassword);		
+	}
+
 }
 	
 	

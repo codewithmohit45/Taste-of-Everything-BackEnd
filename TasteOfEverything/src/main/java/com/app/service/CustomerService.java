@@ -12,7 +12,7 @@ public interface CustomerService {
 	public List<Customer> getAllCustomer();
 	public  Customer getCustomerById(int customerId);
 	public void deleteCustomer(int customerId); 
-	
+	public Customer getuserByEmailAndPassword(String customerEmail,String customerPassword)throws Exception;
 	
 
 }
