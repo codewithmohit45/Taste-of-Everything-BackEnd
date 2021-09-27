@@ -32,7 +32,7 @@ public class Item
 	private String itemImage;
 	
 	@ManyToOne
-	@JoinColumn(name="categoryId_fk")
+	@JoinColumn(name="categoryId_fk",referencedColumnName = "categoryId")
 	private Category category;
 	
 	@OneToMany(mappedBy = "item",cascade = CascadeType.ALL)

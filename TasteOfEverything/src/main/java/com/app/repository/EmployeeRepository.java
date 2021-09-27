@@ -8,5 +8,7 @@ import com.app.model.Employee;
 @Repository
 public interface EmployeeRepository extends JpaRepository<Employee, Integer>
 {
+
+	Employee findEmployeeByEmployeeEmailAndEmployeePassword(String employeeEmail, String employeePassword);
 	//boolean findByEmployee(String emp_username,String emp_password);
 }

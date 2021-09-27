@@ -45,7 +45,7 @@ public class OrderController {
 		return service.getOrderByCustomerId(customerId);
 	}
 	
-	@GetMapping("customer/order/orderStatus/{OrderStatus}")
+	@GetMapping("customer/order/orderStatus/{orderStatus}")
 	public List<Order> getOrderByOrderStatus(@PathVariable String orderStatus)
 	{
 		return service.getOrderByOrderStatus(orderStatus);		

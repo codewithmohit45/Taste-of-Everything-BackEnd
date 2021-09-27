@@ -46,13 +46,14 @@ public class ItemController
 		return service.getItemById(itemId);
 	}
 
-	@GetMapping("/item/{categoryId}")
+	@GetMapping("/item/categoryId/{categoryId}")
 	public List<Item> getItemByCategoryId(@PathVariable int categoryId) 
 	{
 		return service.getItemByCategoryId(categoryId);
 	}
 
-	@DeleteMapping("/item/{itemId}")
+	@DeleteMapping("/item/"
+			+ "{itemId}")
 	public void deleteItemById(int itemId) 
 	{
 		service.deleteItemById(itemId);

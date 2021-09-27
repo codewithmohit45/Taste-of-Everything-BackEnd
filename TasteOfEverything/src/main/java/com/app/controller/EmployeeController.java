@@ -55,4 +55,11 @@ public class EmployeeController
 	{
 		service.deleteEmployeeById(emp_id);
 	}
+	@GetMapping("/employee/login")
+	public Employee getEmployee(@RequestBody Employee employee) throws Exception
+	{
+		String employeeEmail=employee.getEmployeeEmail();
+		String employeePassword=employee.getEmployeePassword();
+		return service.getEmployeeByEmailAndPassword(employeeEmail,employeePassword);
+	}
 }

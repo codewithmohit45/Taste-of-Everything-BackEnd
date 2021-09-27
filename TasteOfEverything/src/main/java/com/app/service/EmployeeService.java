@@ -12,4 +12,5 @@ public interface EmployeeService
 	public List<Employee> getAllEmployee();
 	public  Employee getEmployeeById(int employeeId);
 	public void deleteEmployeeById(int employeeId);
+	public Employee getEmployeeByEmailAndPassword(String employeeEmail,String employeePassword) throws Exception;
 }

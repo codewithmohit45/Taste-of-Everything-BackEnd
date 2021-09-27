@@ -56,4 +56,15 @@ public class EmployeeServiceImpl implements EmployeeService
 		repository.deleteById(employeeId);
 	}
 
+	@Override
+	public Employee getEmployeeByEmailAndPassword(String employeeEmail, String employeePassword) throws Exception 
+	{
+		Employee employee=null;
+		if(employeeEmail!=null && employeePassword!=null)
+			employee=repository.findEmployeeByEmployeeEmailAndEmployeePassword(employeeEmail,employeePassword);
+		if(employee==null)
+			throw new Exception ("Invalid Credentials"); 
+		return employee;
+	}
+
 }
