@@ -51,5 +51,11 @@ public class ItemServiceImpl implements ItemService
 		repository.deleteById(itemId);
 	}
 
+	@Override
+	public List<Item> getItemByName(String itemName) {
+		// TODO Auto-generated method stub
+		return repository.findByItemName(itemName);
+	}
+
 }
 

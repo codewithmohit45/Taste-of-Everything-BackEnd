@@ -30,13 +30,13 @@ public class Customer {
 	private long customerContact;
 	private String customerGender;
 	
-	@OneToMany(mappedBy = "customer",cascade = CascadeType.ALL)
-	private List<Address> address;
-	
-	@OneToMany(mappedBy = "customer",cascade = CascadeType.ALL)
-	private List<Cart> cart;
-	
-	@OneToMany(mappedBy = "customer",cascade = CascadeType.ALL)
-	private List<Order> order;
+//	@OneToMany(mappedBy = "customer",cascade = CascadeType.ALL)
+//	private List<Address> address;
+//	
+//	@OneToMany(mappedBy = "customer",cascade = CascadeType.ALL)
+//	private List<Cart> cart;
+//	
+//	@OneToMany(mappedBy = "customer",cascade = CascadeType.ALL)
+//	private List<Order> order;
 
 }

@@ -41,9 +41,9 @@ public class ItemController
 	}
 
 	@GetMapping("/item/itemName/{itemName}")
-	public List<Item> getItemById(@PathVariable int itemId) 
+	public List<Item> getItemByName(@PathVariable String itemName) 
 	{
-		return service.getItemById(itemId);
+		return service.getItemByName(itemName);
 	}
 
 	@GetMapping("/item/{categoryId}")

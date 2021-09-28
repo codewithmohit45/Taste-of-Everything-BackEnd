@@ -35,11 +35,11 @@ public class Item
 	@JoinColumn(name="categoryId_fk")
 	private Category category;
 	
-	@OneToMany(mappedBy = "item",cascade = CascadeType.ALL)
-	private List<Cart> cart;
-	
-	@OneToMany(mappedBy = "item",cascade = CascadeType.ALL)
-	private List<Order> order;
-		
+//	@OneToMany(mappedBy = "item",cascade = CascadeType.ALL)
+//	private List<Cart> cart;
+//	
+//	@OneToMany(mappedBy = "item",cascade = CascadeType.ALL)
+//	private List<Order> order;
+//		
 	
 }

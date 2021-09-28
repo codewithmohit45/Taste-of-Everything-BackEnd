@@ -24,8 +24,8 @@ public class Category
 	private String categoryName;
 	private String categoryImage;
 	
-	@OneToMany(mappedBy = "category",cascade = CascadeType.ALL)
-	private List<Item> item;
+//	@OneToMany(mappedBy = "category",cascade = CascadeType.ALL)
+//	private List<Item> item;
 
 }
 

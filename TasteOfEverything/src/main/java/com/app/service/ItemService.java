@@ -12,6 +12,7 @@ public interface ItemService
 	public Item updateItem(Item item);
 	public List<Item> getAllItems();
 	public List<Item> getItemById(int itemId);
+	public List<Item> getItemByName(String itemName);
 	public List<Item> getItemByCategoryId(int categoryId);
 	public void deleteItemById(int itemId);
 }

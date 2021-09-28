@@ -31,7 +31,7 @@ public class Address {
 	@ManyToOne
     @JoinColumn(name ="customerId_fk")
     private Customer customer;
-	
-	@OneToMany(mappedBy = "address",cascade = CascadeType.ALL)
-	private List<Order> order;
+//	
+//	@OneToMany(mappedBy = "address",cascade = CascadeType.ALL)
+//	private List<Order> order;
 }

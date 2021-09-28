@@ -10,7 +10,7 @@ import com.app.model.Item;
 @Repository
 public interface ItemRepository extends JpaRepository<Item, Integer>
 {
-
+	List<Item> findByItemName(String itemName);
 	//List<Item> findItemByCategoryId(int categoryId);
 
 }
