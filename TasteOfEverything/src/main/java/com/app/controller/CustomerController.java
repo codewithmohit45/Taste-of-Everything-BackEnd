@@ -51,13 +51,9 @@ public class CustomerController {
 	{
 			service.deleteCustomer(customerId);
 	}
-	
-	//                   ***************LOGIN******************
 	@GetMapping("/customer/login/{customerEmail}/{customerPassword}")
 	public Customer getCustomer(@PathVariable String customerEmail,@PathVariable String customerPassword) throws Exception 
 	{
-		//String customerEmail=customer.getCustomerEmail();
-		//String customerPassword=customer.getCustomerPassword();
 		return service.getCustomerByCustomerEmailAndCustomerPassword(customerEmail, customerPassword);		
 	}
 }

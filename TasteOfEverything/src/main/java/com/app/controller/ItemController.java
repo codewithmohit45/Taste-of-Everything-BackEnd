@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.app.model.Category;
 import com.app.model.Item;
 import com.app.service.ItemService;
 
@@ -41,17 +40,10 @@ public class ItemController
 		return service.getAllItems();
 	}
 
-//	@GetMapping("/item/itemName/{itemName}")
-//	public List<Item> getItemById(@PathVariable int itemId) 
-//	{
-//		return service.getItemById(itemId);
-//	}
-
 	@GetMapping("/item/categoryId/{categoryId}")
 	public List<Item> getItemByCategoryId(@PathVariable int categoryId) 
 	{
 		System.out.println("controller :"+categoryId);
-		//int categoryId=category.getCategoryId();
 		return service.getItemByCategory(categoryId);
 	}
 

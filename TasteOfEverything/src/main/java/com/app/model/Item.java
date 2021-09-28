@@ -4,15 +4,14 @@ package com.app.model;
 
 
 
-import javax.persistence.CascadeType;
+import javax.persistence.Column;
 import javax.persistence.Entity;
-import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
+import javax.persistence.Lob;
 import javax.persistence.ManyToOne;
-import javax.persistence.OneToOne;
 import javax.persistence.Table;
 
 import lombok.Data;
@@ -30,19 +29,12 @@ public class Item
 	private int itemId;
 	private String itemName;
 	private double itemPrice;
+	@Lob
+	@Column(columnDefinition = "CLOB")
+	private String itemImage;
+	
 	@ManyToOne
 	@JoinColumn(name = "categoryId")
 	private Category category;
 	
-
-
-	
-	
 }
-//@ManyToOne(targetEntity = Cart.class,cascade = CascadeType.ALL,fetch = FetchType.LAZY)
-//private Cart cart;
-//@ManyToOne(targetEntity = Order.class,cascade = CascadeType.ALL,fetch = FetchType.LAZY)
-//private Order order;
-//@ManyToOne(targetEntity = Category.class,cascade = CascadeType.ALL,fetch = FetchType.LAZY)
-//@JoinColumn(name="categoryId",referencedColumnName = "categoryId")
-//private int categoryId;

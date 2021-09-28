@@ -5,9 +5,8 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.app.model.Customer;
+
 import com.app.model.Employee;
-import com.app.repository.CustomerRepository;
 import com.app.repository.EmployeeRepository;
 import com.app.service.EmployeeService;
 
@@ -57,7 +56,7 @@ public class EmployeeServiceImpl implements EmployeeService
 			employee=repository.findEmployeeByEmployeeEmailAndEmployeePassword(employeeEmail,employeePassword);
 		if(employee==null)
 		{
-			throw new Exception("Invalid Credential");
+			return null;
 		}
 		return employee;
 

@@ -3,7 +3,6 @@ package com.app.service;
 import java.util.List;
 
 import com.app.model.Address;
-import com.app.model.Customer;
 
 public interface AddressService {
 

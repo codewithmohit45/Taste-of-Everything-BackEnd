@@ -30,13 +30,3 @@ public class Customer {
 	private String customerGender;	
 
 }
-
-//@OneToMany(targetEntity = Address.class)
-////@JoinColumn(name="customerAddressFk",referencedColumnName = "customerId")
-//private List<Address> address;
-//@OneToMany(targetEntity = Order.class)
-////@JoinColumn(name="customerOrderFk",referencedColumnName = "customerId")
-//private List<Order> order;
-//@OneToMany(targetEntity = Cart.class)
-////@JoinColumn(name = "customerCartFk",referencedColumnName = "customerId")
-//private List<Cart> cart;

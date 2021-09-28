@@ -24,34 +24,20 @@ public class CustomerServiceImpl implements CustomerService {
 	}
 
 	@Override
-	public boolean checkCustomer(String cust_email, String cust_password) {
-
-//	    if(repository.findByCustomer(cust_email, cust_password))
-//	    {
-//	      return true;	
-//	    }
-//	    else {
-//		return false;
-//	}
-		return false;
-
-	}
-
-	@Override
-	public Customer updateCustomer(Customer customer) {
-		// TODO Auto-generated method stub
+	public Customer updateCustomer(Customer customer) 
+	{
 		return repository.save(customer);
 	}
 
 	@Override
-	public List<Customer> getAllCustomer() {
-		// TODO Auto-generated method stub
+	public List<Customer> getAllCustomer() 
+	{
 		return repository.findAll();
 	}
 
 	@Override
-	public Customer getCustomerById(int cust_id) {
-		// TODO Auto-generated method stub
+	public Customer getCustomerById(int cust_id) 
+	{
 		return repository.findById(cust_id).get();
 	}
 
@@ -69,7 +55,7 @@ public class CustomerServiceImpl implements CustomerService {
 			cus=repository.findCustomerByCustomerEmailAndCustomerPassword(customerEmail,customerPassword);
 		if(cus==null)
 		{
-			throw new Exception("Invalid Credential");
+			return null;
 		}
 		return cus;
 	}

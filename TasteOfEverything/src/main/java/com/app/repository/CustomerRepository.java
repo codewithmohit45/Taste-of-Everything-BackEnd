@@ -9,7 +9,6 @@ import com.app.model.Customer;
 public interface CustomerRepository extends JpaRepository<Customer, Integer>{
 
 	public Customer findCustomerByCustomerEmailAndCustomerPassword(String customerEmail, String customerPassword);
-	//boolean findByCustomer(String cust_username,String cust_password);
-      
+
 
 }
