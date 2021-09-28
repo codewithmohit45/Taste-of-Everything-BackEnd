@@ -15,9 +15,13 @@ import javax.persistence.Table;
 
 
 import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.RequiredArgsConstructor;
+import lombok.Setter;
 
 
 @Data
+
 @Entity
 @Table
 public class Customer {
@@ -39,5 +43,7 @@ public class Customer {
 	
 	@OneToMany(mappedBy = "customer",cascade = CascadeType.ALL)
 	private List<Order> order;
+
+	
 
 }

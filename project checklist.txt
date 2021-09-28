@@ -1,0 +1,4 @@
+1.customer part signup and login
+2.Employee part signup and login
+3.Category part 
+4.Item part et to finish
