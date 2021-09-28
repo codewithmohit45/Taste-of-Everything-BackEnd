@@ -44,10 +44,10 @@ public class EmployeeController
 		return service.getEmployeeById(employeeId);
 	}
 
-	@DeleteMapping("/employee/{employeeId}")
-	public void deleteEmployeeById(@PathVariable int employeeId) 
+	@DeleteMapping("/employee/{emp_id}")
+	public void deleteEmployeeById(@PathVariable int emp_id) 
 	{
-		service.deleteEmployeeById(employeeId);
+		service.deleteEmployeeById(emp_id);
 	}
 	
 	@GetMapping("/employee/login/{employeeEmail}/{employeePassword}")

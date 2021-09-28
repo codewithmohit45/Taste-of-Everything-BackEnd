@@ -45,9 +45,9 @@ public class EmployeeController
 	}
 
 	@DeleteMapping("/employee/{employeeId}")
-	public void deleteEmployeeById(@PathVariable int employeeId) 
+	public void deleteEmployeeById(@PathVariable int emp_id) 
 	{
-		service.deleteEmployeeById(employeeId);
+		service.deleteEmployeeById(emp_id);
 	}
 	
 	@GetMapping("/employee/login/{employeeEmail}/{employeePassword}")
