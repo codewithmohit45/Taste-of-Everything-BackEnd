@@ -1170,3 +1170,63 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 13:56:01.926
 !MESSAGE executing callback sts4.classpath.whWSDysA SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 14:04:07.373
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.whWSDysA
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 14:04:07.390
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.whWSDysA
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 14:04:07.393
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 14:04:07.397
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.whWSDysA => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 14:04:13.014
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 14:04:13.044
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@7c7b27c[org.springframework.tooling.boot.ls:1.18.0.202005250744(id=636)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 14:04:13.055
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 14:04:20.787
+!MESSAGE Boot LS startup time from start to initialized: 7672ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 14:04:20.904
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.WdYleaToisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 14:04:20.907
+!MESSAGE Creating project sorter...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 14:04:20.915
+!MESSAGE Creating project sorter... DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 14:04:20.928
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 14:04:20.934
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 14:04:20.940
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 14:04:20.944
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 14:04:20.949
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.WdYleaTo => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 14:04:21.017
+!MESSAGE classpath=125 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 14:04:21.086
+!MESSAGE buffering callback sts4.classpath.WdYleaTo TasteOfEverything false 125
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 14:04:21.090
+!MESSAGE executing callback sts4.classpath.WdYleaTo 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 14:04:21.186
+!MESSAGE executing callback sts4.classpath.WdYleaTo SUCCESS [done]
