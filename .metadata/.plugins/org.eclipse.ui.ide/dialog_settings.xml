@@ -47,6 +47,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\jinda\OneDrive\Desktop\online-shopping-with-java"/>
+			<item value="C:\Users\jinda\OneDrive\Desktop\Revature\Week7(Spring,SpringBoot,Spring-Angular)"/>
 			<item value="C:\Users\jinda\OneDrive\Desktop\Revature\Week5(Agile,Devops,AWS,Hibernate)\hibernate_demos"/>
 			<item value="C:\Users\jinda\OneDrive\Desktop\Taste of Everything\Taste-of-Everything-BackEnd"/>
 		</list>

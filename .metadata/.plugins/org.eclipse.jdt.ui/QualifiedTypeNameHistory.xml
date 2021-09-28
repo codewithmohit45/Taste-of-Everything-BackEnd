@@ -5,5 +5,8 @@
 <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
 <fullyQualifiedTypeName name="com.app.model.Address"/>
 <fullyQualifiedTypeName name="javax.persistence.ManyToOne"/>
+<fullyQualifiedTypeName name="com.app.service.CategoryService"/>
+<fullyQualifiedTypeName name="com.app.model.Category"/>
+<fullyQualifiedTypeName name="com.app.service.impl.CategoryServiceImpl"/>
 <fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
 </qualifiedTypeNameHistroy>

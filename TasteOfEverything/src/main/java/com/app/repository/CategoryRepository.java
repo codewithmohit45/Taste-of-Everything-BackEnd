@@ -10,5 +10,4 @@ import com.app.model.Category;
 @Repository
 public interface CategoryRepository extends JpaRepository<Category, Integer>{
     public List<Category> findByCategoryName(String categoryName );
-	
 }

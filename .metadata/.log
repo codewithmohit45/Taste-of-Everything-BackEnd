@@ -12523,3 +12523,716 @@ java.nio.file.FileSystemException: C:\Users\jinda\OneDrive\Desktop\Revature\Week
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 09:27:06.242
 !MESSAGE executing callback sts4.classpath.nTfpsCRj SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.369
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.448
+!MESSAGE classpath=24 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.451
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_aop_demo false 24
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.452
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.456
+!MESSAGE classpath=23 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.458
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_boot_demo-1 false 23
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.460
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.463
+!MESSAGE classpath=23 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.466
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_boot_demo-2 false 23
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.467
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.473
+!MESSAGE classpath=23 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.475
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_boot_rest_template_demo false 23
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.476
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.533
+!MESSAGE classpath=24 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.590
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_demo-1 false 24
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.592
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.595
+!MESSAGE classpath=24 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.598
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_demo-2 false 24
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.599
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.602
+!MESSAGE classpath=24 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.605
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_hibernate_integration_demo false 24
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.606
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.610
+!MESSAGE classpath=24 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.612
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_jdbc_integration false 24
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.614
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.617
+!MESSAGE classpath=24 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.620
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_web_mvc_demo false 24
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:54.621
+!MESSAGE executing callback sts4.classpath.nTfpsCRj 9 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:43:55.709
+!MESSAGE executing callback sts4.classpath.nTfpsCRj SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 11:44:04.320
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 11:44:04.331
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:06.708
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:06.713
+!MESSAGE classpath=32 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:06.717
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_aop_demo false 32
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:06.719
+!MESSAGE executing callback sts4.classpath.nTfpsCRj 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:06.771
+!MESSAGE executing callback sts4.classpath.nTfpsCRj SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:12.785
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:12.793
+!MESSAGE classpath=84 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:12.800
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_boot_demo-1 false 84
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:12.802
+!MESSAGE executing callback sts4.classpath.nTfpsCRj 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:12.843
+!MESSAGE executing callback sts4.classpath.nTfpsCRj SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:17.773
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:17.785
+!MESSAGE classpath=110 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:17.797
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_boot_demo-2 false 110
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:17.798
+!MESSAGE executing callback sts4.classpath.nTfpsCRj 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:17.828
+!MESSAGE executing callback sts4.classpath.nTfpsCRj SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 11:44:23.277
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 11:44:23.284
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:23.507
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:23.522
+!MESSAGE classpath=84 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:23.544
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_boot_rest_template_demo false 84
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:23.545
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:23.555
+!MESSAGE classpath=30 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:23.557
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_demo-1 false 30
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:23.559
+!MESSAGE executing callback sts4.classpath.nTfpsCRj 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:23.607
+!MESSAGE executing callback sts4.classpath.nTfpsCRj SUCCESS [done]
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-09-28 11:44:24.122
+!MESSAGE Error occurred while deleting: /spring_boot_rest_template_demo/target/classes/META-INF
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Problems encountered while deleting resources.
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:770)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.cleanOutputFolders(BatchImageBuilder.java:140)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.build(BatchImageBuilder.java:65)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildAll(JavaBuilder.java:275)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:198)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:832)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Could not delete '/spring_boot_rest_template_demo/target/classes/META-INF'.
+org.eclipse.core.internal.resources.ResourceException: Problems encountered while deleting resources.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:367)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:361)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:813)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1783)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:757)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.cleanOutputFolders(BatchImageBuilder.java:140)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.build(BatchImageBuilder.java:65)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildAll(JavaBuilder.java:275)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:198)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:832)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Problems encountered while deleting files.
+Contains: Could not delete: C:\Users\jinda\OneDrive\Desktop\Revature\Week7(Spring,SpringBoot,Spring-Angular)\spring_boot_demos\spring_boot_rest_template_demo\target\classes\META-INF\maven\com.app\spring_boot_rest_template_demo\pom.xml.
+java.nio.file.FileSystemException: C:\Users\jinda\OneDrive\Desktop\Revature\Week7(Spring,SpringBoot,Spring-Angular)\spring_boot_demos\spring_boot_rest_template_demo\target\classes\META-INF\maven\com.app\spring_boot_rest_template_demo\pom.xml: The process cannot access the file because it is being used by another process.
+
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+	at sun.nio.fs.WindowsFileSystemProvider.implDelete(Unknown Source)
+	at sun.nio.fs.AbstractFileSystemProvider.deleteIfExists(Unknown Source)
+	at java.nio.file.Files.deleteIfExists(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.internalDelete(LocalFile.java:223)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.internalDelete(LocalFile.java:251)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.internalDelete(LocalFile.java:251)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.internalDelete(LocalFile.java:251)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.internalDelete(LocalFile.java:251)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.delete(LocalFile.java:140)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.delete(DeleteVisitor.java:66)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.visit(DeleteVisitor.java:154)
+	at org.eclipse.core.internal.localstore.UnifiedTree.accept(UnifiedTree.java:119)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:364)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:361)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:813)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1783)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:757)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.cleanOutputFolders(BatchImageBuilder.java:140)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.build(BatchImageBuilder.java:65)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildAll(JavaBuilder.java:275)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:198)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:832)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Could not delete: C:\Users\jinda\OneDrive\Desktop\Revature\Week7(Spring,SpringBoot,Spring-Angular)\spring_boot_demos\spring_boot_rest_template_demo\target\classes\META-INF\maven\com.app\spring_boot_rest_template_demo.
+Contains: Could not delete: C:\Users\jinda\OneDrive\Desktop\Revature\Week7(Spring,SpringBoot,Spring-Angular)\spring_boot_demos\spring_boot_rest_template_demo\target\classes\META-INF\maven\com.app.
+Contains: Could not delete: C:\Users\jinda\OneDrive\Desktop\Revature\Week7(Spring,SpringBoot,Spring-Angular)\spring_boot_demos\spring_boot_rest_template_demo\target\classes\META-INF\maven.
+Contains: Could not delete: C:\Users\jinda\OneDrive\Desktop\Revature\Week7(Spring,SpringBoot,Spring-Angular)\spring_boot_demos\spring_boot_rest_template_demo\target\classes\META-INF.
+!SUBENTRY 1 org.eclipse.core.resources 4 273 2021-09-28 11:44:24.123
+!MESSAGE Problems encountered while deleting resources.
+!SUBENTRY 2 org.eclipse.core.resources 4 273 2021-09-28 11:44:24.123
+!MESSAGE Could not delete '/spring_boot_rest_template_demo/target/classes/META-INF'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Problems encountered while deleting resources.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:367)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:361)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:813)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1783)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:757)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.cleanOutputFolders(BatchImageBuilder.java:140)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.build(BatchImageBuilder.java:65)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildAll(JavaBuilder.java:275)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:198)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:832)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Problems encountered while deleting files.
+Contains: Could not delete: C:\Users\jinda\OneDrive\Desktop\Revature\Week7(Spring,SpringBoot,Spring-Angular)\spring_boot_demos\spring_boot_rest_template_demo\target\classes\META-INF\maven\com.app\spring_boot_rest_template_demo\pom.xml.
+java.nio.file.FileSystemException: C:\Users\jinda\OneDrive\Desktop\Revature\Week7(Spring,SpringBoot,Spring-Angular)\spring_boot_demos\spring_boot_rest_template_demo\target\classes\META-INF\maven\com.app\spring_boot_rest_template_demo\pom.xml: The process cannot access the file because it is being used by another process.
+
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+	at sun.nio.fs.WindowsFileSystemProvider.implDelete(Unknown Source)
+	at sun.nio.fs.AbstractFileSystemProvider.deleteIfExists(Unknown Source)
+	at java.nio.file.Files.deleteIfExists(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.internalDelete(LocalFile.java:223)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.internalDelete(LocalFile.java:251)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.internalDelete(LocalFile.java:251)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.internalDelete(LocalFile.java:251)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.internalDelete(LocalFile.java:251)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.delete(LocalFile.java:140)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.delete(DeleteVisitor.java:66)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.visit(DeleteVisitor.java:154)
+	at org.eclipse.core.internal.localstore.UnifiedTree.accept(UnifiedTree.java:119)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:364)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:361)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:813)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1783)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:757)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.cleanOutputFolders(BatchImageBuilder.java:140)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.build(BatchImageBuilder.java:65)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildAll(JavaBuilder.java:275)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:198)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:832)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Could not delete: C:\Users\jinda\OneDrive\Desktop\Revature\Week7(Spring,SpringBoot,Spring-Angular)\spring_boot_demos\spring_boot_rest_template_demo\target\classes\META-INF\maven\com.app\spring_boot_rest_template_demo.
+Contains: Could not delete: C:\Users\jinda\OneDrive\Desktop\Revature\Week7(Spring,SpringBoot,Spring-Angular)\spring_boot_demos\spring_boot_rest_template_demo\target\classes\META-INF\maven\com.app.
+Contains: Could not delete: C:\Users\jinda\OneDrive\Desktop\Revature\Week7(Spring,SpringBoot,Spring-Angular)\spring_boot_demos\spring_boot_rest_template_demo\target\classes\META-INF\maven.
+Contains: Could not delete: C:\Users\jinda\OneDrive\Desktop\Revature\Week7(Spring,SpringBoot,Spring-Angular)\spring_boot_demos\spring_boot_rest_template_demo\target\classes\META-INF.
+!SUBENTRY 3 org.eclipse.core.resources 4 273 2021-09-28 11:44:24.123
+!MESSAGE Problems encountered while deleting resources.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2021-09-28 11:44:24.123
+!MESSAGE Problems encountered while deleting files.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2021-09-28 11:44:24.123
+!MESSAGE Could not delete: C:\Users\jinda\OneDrive\Desktop\Revature\Week7(Spring,SpringBoot,Spring-Angular)\spring_boot_demos\spring_boot_rest_template_demo\target\classes\META-INF\maven\com.app\spring_boot_rest_template_demo\pom.xml.
+!STACK 0
+java.nio.file.FileSystemException: C:\Users\jinda\OneDrive\Desktop\Revature\Week7(Spring,SpringBoot,Spring-Angular)\spring_boot_demos\spring_boot_rest_template_demo\target\classes\META-INF\maven\com.app\spring_boot_rest_template_demo\pom.xml: The process cannot access the file because it is being used by another process.
+
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+	at sun.nio.fs.WindowsFileSystemProvider.implDelete(Unknown Source)
+	at sun.nio.fs.AbstractFileSystemProvider.deleteIfExists(Unknown Source)
+	at java.nio.file.Files.deleteIfExists(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.internalDelete(LocalFile.java:223)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.internalDelete(LocalFile.java:251)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.internalDelete(LocalFile.java:251)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.internalDelete(LocalFile.java:251)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.internalDelete(LocalFile.java:251)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.delete(LocalFile.java:140)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.delete(DeleteVisitor.java:66)
+	at org.eclipse.core.internal.localstore.DeleteVisitor.visit(DeleteVisitor.java:154)
+	at org.eclipse.core.internal.localstore.UnifiedTree.accept(UnifiedTree.java:119)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:364)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:361)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteFolder(ResourceTree.java:813)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1783)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:757)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.cleanOutputFolders(BatchImageBuilder.java:140)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.build(BatchImageBuilder.java:65)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildAll(JavaBuilder.java:275)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:198)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:832)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2021-09-28 11:44:24.124
+!MESSAGE Could not delete: C:\Users\jinda\OneDrive\Desktop\Revature\Week7(Spring,SpringBoot,Spring-Angular)\spring_boot_demos\spring_boot_rest_template_demo\target\classes\META-INF\maven\com.app\spring_boot_rest_template_demo.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2021-09-28 11:44:24.124
+!MESSAGE Could not delete: C:\Users\jinda\OneDrive\Desktop\Revature\Week7(Spring,SpringBoot,Spring-Angular)\spring_boot_demos\spring_boot_rest_template_demo\target\classes\META-INF\maven\com.app.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2021-09-28 11:44:24.124
+!MESSAGE Could not delete: C:\Users\jinda\OneDrive\Desktop\Revature\Week7(Spring,SpringBoot,Spring-Angular)\spring_boot_demos\spring_boot_rest_template_demo\target\classes\META-INF\maven.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2021-09-28 11:44:24.124
+!MESSAGE Could not delete: C:\Users\jinda\OneDrive\Desktop\Revature\Week7(Spring,SpringBoot,Spring-Angular)\spring_boot_demos\spring_boot_rest_template_demo\target\classes\META-INF.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 11:44:26.240
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 11:44:26.244
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:26.400
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:26.404
+!MESSAGE classpath=30 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:26.406
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_demo-2 false 30
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:26.407
+!MESSAGE executing callback sts4.classpath.nTfpsCRj 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:26.440
+!MESSAGE executing callback sts4.classpath.nTfpsCRj SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 11:44:31.025
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 11:44:31.030
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:31.390
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:31.400
+!MESSAGE classpath=48 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:31.405
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_hibernate_integration_demo false 48
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:31.406
+!MESSAGE executing callback sts4.classpath.nTfpsCRj 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:31.420
+!MESSAGE executing callback sts4.classpath.nTfpsCRj SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 11:44:31.935
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 11:44:31.940
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:32.184
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:32.191
+!MESSAGE classpath=34 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:32.196
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_jdbc_integration false 34
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:32.198
+!MESSAGE executing callback sts4.classpath.nTfpsCRj 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:32.212
+!MESSAGE executing callback sts4.classpath.nTfpsCRj SUCCESS [done]
+
+!ENTRY org.eclipse.core.jobs 4 2 2021-09-28 11:44:32.229
+!MESSAGE An internal error occurred during: "Classpath Notiifcation Post Processing".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.getAdapter(MavenPomEditor.java:1029)
+	at org.springframework.tooling.ls.eclipse.commons.STS4LanguageClientImpl.lambda$8(STS4LanguageClientImpl.java:384)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$CallbackJob.lambda$0(ReusableClasspathListenerHandler.java:77)
+	at java.lang.Iterable.forEach(Unknown Source)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$CallbackJob.run(ReusableClasspathListenerHandler.java:77)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 11:44:38.820
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 11:44:38.834
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:39.019
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:39.023
+!MESSAGE classpath=33 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:39.027
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_web_mvc_demo false 33
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:39.028
+!MESSAGE executing callback sts4.classpath.nTfpsCRj 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:39.077
+!MESSAGE executing callback sts4.classpath.nTfpsCRj SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 11:44:40.621
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 11:44:40.625
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:55.411
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:55.415
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_aop_demo true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:55.416
+!MESSAGE executing callback sts4.classpath.nTfpsCRj 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:44:55.446
+!MESSAGE executing callback sts4.classpath.nTfpsCRj SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:46:06.940
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:46:06.942
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_boot_demo-1 true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:46:06.943
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:46:06.944
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_boot_demo-2 true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:46:06.946
+!MESSAGE executing callback sts4.classpath.nTfpsCRj 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:46:07.021
+!MESSAGE executing callback sts4.classpath.nTfpsCRj SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:48:24.868
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:48:24.870
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_demo-1 true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:48:24.872
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:48:24.874
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_demo-2 true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:48:24.876
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:48:24.877
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_hibernate_integration_demo true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:48:24.878
+!MESSAGE executing callback sts4.classpath.nTfpsCRj 3 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:48:24.947
+!MESSAGE executing callback sts4.classpath.nTfpsCRj SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:48:42.320
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:48:42.321
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_web_mvc_demo true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:48:42.323
+!MESSAGE executing callback sts4.classpath.nTfpsCRj 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:48:42.334
+!MESSAGE executing callback sts4.classpath.nTfpsCRj SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:49:13.275
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:49:13.276
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_jdbc_integration true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:49:13.277
+!MESSAGE executing callback sts4.classpath.nTfpsCRj 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:49:13.307
+!MESSAGE executing callback sts4.classpath.nTfpsCRj SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:49:24.869
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:49:24.870
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj spring_boot_rest_template_demo true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:49:24.871
+!MESSAGE executing callback sts4.classpath.nTfpsCRj 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 11:49:24.895
+!MESSAGE executing callback sts4.classpath.nTfpsCRj SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-28 12:00:53.507
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(Unknown Source)
+	at java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at org.eclipse.lsp4e.operations.declaration.OpenDeclarationHyperlinkDetector.detectHyperlinks(OpenDeclarationHyperlinkDetector.java:90)
+	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4105)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1037)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3922)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3524)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1160)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1049)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:658)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:17:19.173
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:17:19.176
+!MESSAGE classpath=24 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:17:19.209
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj online_shopping_app false 24
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:17:19.213
+!MESSAGE executing callback sts4.classpath.nTfpsCRj 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:17:19.275
+!MESSAGE executing callback sts4.classpath.nTfpsCRj SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-09-28 12:17:26.369
+!MESSAGE Launch configuration Main references non-existing project player_app_with_menu.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration Main references non-existing project player_app_with_menu.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1713)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationAdded(MavenLaunchConfigurationListener.java:36)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:219)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationAdded(LaunchManager.java:2114)
+	at org.eclipse.debug.internal.core.LaunchManager$LaunchManagerVisitor.visit(LaunchManager.java:372)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:67)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:51)
+	at org.eclipse.debug.internal.core.LaunchManager.resourceChanged(LaunchManager.java:2266)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:380)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1502)
+	at org.eclipse.core.internal.resources.Resource.refreshLocal(Resource.java:1563)
+	at org.eclipse.ui.internal.wizards.datatransfer.SmartImportJob.importProjectAndChildrenRecursively(SmartImportJob.java:416)
+	at org.eclipse.ui.internal.wizards.datatransfer.SmartImportJob.access$0(SmartImportJob.java:396)
+	at org.eclipse.ui.internal.wizards.datatransfer.SmartImportJob$1.run(SmartImportJob.java:229)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 107 2021-09-28 12:17:26.370
+!MESSAGE Launch configuration Main references non-existing project player_app_with_menu.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:17:35.650
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:17:35.655
+!MESSAGE classpath=33 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:17:35.727
+!MESSAGE buffering callback sts4.classpath.nTfpsCRj online_shopping_app false 33
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:17:35.728
+!MESSAGE executing callback sts4.classpath.nTfpsCRj 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-28 12:17:35.733
+!MESSAGE executing callback sts4.classpath.nTfpsCRj SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 12:17:36.300
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 12:17:36.326
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 12:17:38.333
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 12:17:38.356
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 12:17:39.451
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 12:17:39.457
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 12:18:00.128
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 12:18:00.133
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 12:22:36.709
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 12:22:36.712
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 12:24:23.883
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-09-28 12:24:23.886
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!

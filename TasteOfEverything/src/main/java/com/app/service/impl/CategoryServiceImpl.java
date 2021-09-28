@@ -45,6 +45,11 @@ public class CategoryServiceImpl implements CategoryService {
 		
 		return  repository.findByCategoryName(categoryName);
 	}
+
+	@Override
+	public Category getCategoryById(int categoryId) {
+		return repository.findById(categoryId).get();
+	}
 	
     
 }

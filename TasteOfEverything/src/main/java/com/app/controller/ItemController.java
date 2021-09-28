@@ -12,8 +12,11 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.app.model.Category;
 import com.app.model.Item;
+import com.app.service.CategoryService;
 import com.app.service.ItemService;
+import com.app.service.impl.CategoryServiceImpl;
 
 @RestController
 @CrossOrigin
@@ -48,8 +51,12 @@ public class ItemController
 
 	@GetMapping("/item/{categoryId}")
 	public List<Item> getItemByCategoryId(@PathVariable int categoryId) 
-	{
-		return service.getItemByCategoryId(categoryId);
+	{	
+		
+		CategoryService categoryService = new CategoryServiceImpl();
+		Category category = categoryService.getCategoryById(categoryId);
+		System.out.println("++++++++"+category);
+		return service.getItemByCategory(category);
 	}
 
 	@DeleteMapping("/item/{itemId}")

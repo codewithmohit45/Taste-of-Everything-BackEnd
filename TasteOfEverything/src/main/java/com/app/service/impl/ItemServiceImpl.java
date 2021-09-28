@@ -5,6 +5,7 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import com.app.model.Category;
 import com.app.model.Item;
 import com.app.repository.ItemRepository;
 import com.app.service.ItemService;
@@ -40,9 +41,9 @@ public class ItemServiceImpl implements ItemService
 	}
 
 	@Override
-	public List<Item> getItemByCategoryId(int categoryId) 
-	{
-		return null;//repository.findItemByCategoryId(categoryId);
+	public List<Item> getItemByCategory(Category category) 
+	{	
+		return repository.findByCategory(category);
 	}
 
 	@Override

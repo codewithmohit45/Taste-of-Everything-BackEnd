@@ -10,5 +10,6 @@ public interface CategoryService {
 	public List<Category> getAllCategories();
 	public void deleteCategory(int categoryId);
 	public List<Category> getCategoryByName(String categoryName);
+	public Category getCategoryById(int categoryId);
 
 }
