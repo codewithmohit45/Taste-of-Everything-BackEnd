@@ -29,8 +29,8 @@ public class Item
 	private int itemId;
 	private String itemName;
 	private double itemPrice;
-	@Lob
-	@Column(columnDefinition = "CLOB")
+//	@Lob
+//	@Column(columnDefinition = "CLOB")
 	private String itemImage;
 	
 	@ManyToOne

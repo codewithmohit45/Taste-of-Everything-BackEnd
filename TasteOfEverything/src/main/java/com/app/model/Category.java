@@ -21,7 +21,7 @@ public class Category
 	private int categoryId;
 	private String categoryName;
 	
-	@Lob
-	@Column(columnDefinition = "CLOB")
+//	@Lob
+//	@Column(columnDefinition = "CLOB")
 	private String categoryImage;
 }

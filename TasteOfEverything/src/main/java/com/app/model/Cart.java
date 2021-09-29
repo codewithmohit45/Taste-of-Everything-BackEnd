@@ -22,6 +22,7 @@ public class Cart
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int cartId;
+	private int quantity;
 	@ManyToOne
 	@JoinColumn(name="customerId")
     private Customer customer;

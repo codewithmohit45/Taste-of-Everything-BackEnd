@@ -8,7 +8,6 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
-import javax.persistence.OneToOne;
 import javax.persistence.Table;
 
 import lombok.Data;
@@ -22,13 +21,14 @@ public class Order {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int orderId;
 	private String orderStatus;
+	private int quantity;
 	@ManyToOne
 	@JoinColumn(name = "customerId")
 	private Customer customer;
-	@OneToOne
+	@ManyToOne
 	@JoinColumn(name="itemId")
 	private Item item;
-	@OneToOne
+	@ManyToOne
 	@JoinColumn(name = "addressId")
 	private Address address;
 	
