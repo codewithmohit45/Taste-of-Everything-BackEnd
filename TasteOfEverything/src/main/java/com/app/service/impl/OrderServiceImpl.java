@@ -7,14 +7,14 @@ import org.springframework.stereotype.Service;
 
 import com.app.model.Customer;
 import com.app.model.Order;
-import com.app.repository.OrderRepositoy;
+import com.app.repository.OrderRepository;
 import com.app.service.OrderService;
 
 @Service
 public class OrderServiceImpl implements OrderService {
 
 	@Autowired
-	private OrderRepositoy repository;
+	private OrderRepository repository;
     
 	@Override
 	public Order addOrder(Order order) {

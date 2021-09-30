@@ -37,7 +37,7 @@ public class CustomerController {
 	@GetMapping("/customers")
 	public List<Customer> getAllCustomers()
 	{
-		return service.getAllCustomer();
+		return service.getAllCustomers();
 	}
 
 	

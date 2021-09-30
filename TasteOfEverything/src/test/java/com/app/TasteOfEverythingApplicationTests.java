@@ -1,10 +1,16 @@
 package com.app;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.mockito.Mockito.verify;
+import static org.mockito.Mockito.times;
 import static org.mockito.Mockito.when;
+
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
+import org.mockito.internal.verification.Times;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.mock.mockito.MockBean;
@@ -13,6 +19,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 import com.app.model.Customer;
 import com.app.repository.CustomerRepository;
 import com.app.service.CustomerService;
+
 @RunWith(SpringRunner.class)
 @SpringBootTest
 class TasteOfEverythingApplicationTests {
@@ -30,9 +37,34 @@ class TasteOfEverythingApplicationTests {
 		assertEquals(customer,customerService.addCustomer(customer));
 
 	} 
+	@Test
+	public void updateCustomerTest() throws Exception{
+		Customer customer=new Customer(1,"raja@gmail.com", "root", "raja", 9098896678L, "male");
+		when(repository.save(customer)).thenReturn(customer);
+		assertEquals(customer, customerService.updateCustomer(customer), "updated Successfully");
+		
+	}
 	
 	@Test
-	void contextLoads() {
+	public void getAllCustomerTest()throws Exception{
+		when(repository.findAll()).thenReturn(Stream.of(new Customer(1,"raja@gmail.com", "root", "raja", 9098896678L, "male"), new Customer(2,"raja@gmail.com", "root", "raja", 9098896678L, "male")).collect(Collectors.toList()));
+		assertEquals(2,customerService.getAllCustomers().size());
 	}
 
+//	@Test
+//	public void getCustomerById() {
+//		int  customerId=1;
+//		when(repository.findById(customerId)).thenReturn((Customer)Stream.of(new Customer(1,"raja@gmail.com", "root", "raja", 9098896678L, "male"), new Customer(2,"raja@gmail.com", "root", "raja", 9098896678L, "male")).collect(Collectors.toList()));
+//		assertEquals(2,customerService.getCustomerById(customerId).size());		
+//		
+//	}
+//	
+
+	@Test
+	public void deleteCustomer(int customerId) throws Exception{
+		Customer c=new Customer();
+		c.setCustomerId(1);
+		customerService.deleteCustomer(c.getCustomerId());
+		verify(repository,times(1)).deleteById(c.getCustomerId());
+	}
 }

@@ -30,21 +30,21 @@ public class CustomerServiceImpl implements CustomerService {
 	}
 
 	@Override
-	public List<Customer> getAllCustomer() 
+	public List<Customer> getAllCustomers() 
 	{
 		return repository.findAll();
 	}
 
 	@Override
-	public Customer getCustomerById(int cust_id) 
+	public Customer getCustomerById(int customerId) 
 	{
-		return repository.findById(cust_id).get();
+		return repository.findById(customerId).get();
 	}
 
 	@Override
-	public void deleteCustomer(int cust_id) {
+	public void deleteCustomer(int customerId) {
 
-		repository.deleteById(cust_id);
+		repository.deleteById(customerId);
 		System.out.println("Customer Deleted SuccessFully");
 	}
 

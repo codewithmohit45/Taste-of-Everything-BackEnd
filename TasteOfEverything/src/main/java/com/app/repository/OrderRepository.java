@@ -10,7 +10,7 @@ import com.app.model.Customer;
 import com.app.model.Order;
 
 @Repository
-public interface OrderRepositoy extends JpaRepository<Order, Integer> {
+public interface OrderRepository extends JpaRepository<Order, Integer> {
 	public List<Order> findOrderByCustomer(Customer customer);
 	public List<Order> findOrderByOrderStatus(String orderStatus);
 }

@@ -8,7 +8,7 @@ public interface CustomerService {
 	
 	public Customer addCustomer(Customer customer);
 	public Customer updateCustomer(Customer customer);
-	public List<Customer> getAllCustomer();
+	public List<Customer> getAllCustomers();
 	public  Customer getCustomerById(int customerId);
 	public void deleteCustomer(int customerId); 
 	public Customer getCustomerByCustomerEmailAndCustomerPassword(String customerEmail,String customerPassword)throws Exception;
