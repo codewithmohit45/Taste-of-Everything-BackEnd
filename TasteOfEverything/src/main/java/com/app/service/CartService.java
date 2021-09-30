@@ -11,4 +11,5 @@ public interface CartService
 	public List<Cart> getAllCart();
 	public List<Cart> getCartByCustomerId(int customerId);
 	public void deleteByCartId(int cartId);
+	void deleteCartByCustomerId(int customerId);
 }

@@ -53,4 +53,10 @@ public class CartController
 		service.deleteByCartId(cartId);
 	}
 	
+	@DeleteMapping("/cart/customerId/{customerId}")
+	public void deleteCartByCustomerId(@PathVariable int customerId)
+	{
+		service.deleteCartByCustomerId(customerId);
+	}
+	
 }

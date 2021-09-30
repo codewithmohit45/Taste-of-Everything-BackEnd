@@ -33,12 +33,26 @@ public class CartServiceImpl implements CartService
 	{
 		return repository.findAll();
 	}
+	
 	@Override
 	public List<Cart> getCartByCustomerId(int customerId) 
 	{
 		Customer customer =new Customer();
 		customer.setCustomerId(customerId);
 		return repository.findCartByCustomer(customer);
+	}
+	
+	@Override
+	public void deleteCartByCustomerId(int customerId) 
+	{
+		Customer customer =new Customer();
+		customer.setCustomerId(customerId);
+		List<Cart> listCart=repository.findCartByCustomer(customer);
+		for(Cart i:listCart)
+		{
+			int cartId=i.getCartId();
+			repository.deleteById(cartId);
+		}
 	}
 
 	@Override
