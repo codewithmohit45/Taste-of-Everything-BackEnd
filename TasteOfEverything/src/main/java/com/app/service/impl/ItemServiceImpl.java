@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 
 import com.app.model.Cart;
 import com.app.model.Category;
-import com.app.model.Customer;
+
 import com.app.model.Item;
 import com.app.model.Order;
 import com.app.repository.CartRepository;

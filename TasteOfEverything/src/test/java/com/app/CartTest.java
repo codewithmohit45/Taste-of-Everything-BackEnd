@@ -1,8 +1,7 @@
 package com.app;
 
 import static org.junit.Assert.assertEquals;
-import static org.mockito.Mockito.times;
-import static org.mockito.Mockito.verify;
+
 import static org.mockito.Mockito.when;
 
 import java.util.stream.*;
@@ -15,9 +14,9 @@ import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.test.context.junit4.SpringRunner;
 
 import com.app.model.Cart;
-import com.app.model.Category;
+
 import com.app.model.Customer;
-import com.app.model.Employee;
+
 import com.app.model.Item;
 import com.app.repository.CartRepository;
 import com.app.service.CartService;

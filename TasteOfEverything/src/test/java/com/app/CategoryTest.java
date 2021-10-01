@@ -14,7 +14,7 @@ import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.test.context.junit4.SpringRunner;
 
 import com.app.model.Category;
-import com.app.model.Customer;
+
 import com.app.repository.CategoryRepository;
 import com.app.service.CategoryService;
 

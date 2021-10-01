@@ -11,7 +11,10 @@ import com.app.model.Customer;
 import com.app.repository.CustomerRepository;
 import com.app.service.CustomerService;
 
+
+
 @Service
+
 public class CustomerServiceImpl implements CustomerService {
 
 	@Autowired
@@ -43,9 +46,10 @@ public class CustomerServiceImpl implements CustomerService {
 
 	@Override
 	public void deleteCustomer(int customerId) {
+		
 
 		repository.deleteById(customerId);
-		System.out.println("Customer Deleted SuccessFully");
+		
 	}
 
 	@Override
