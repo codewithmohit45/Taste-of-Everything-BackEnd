@@ -33,5 +33,5 @@ public class Cart
     private Customer customer;
 	@ManyToOne
 	@JoinColumn(name="itemId")
-	private Item itemId;	
+	private Item item;	
 }
